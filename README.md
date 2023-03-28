@@ -16,3 +16,6 @@
     install.packages("officer")
     install.packages("data.table")
     install.packages("testit")
+    install.packages("survminer") # survival plots
+    
+    
