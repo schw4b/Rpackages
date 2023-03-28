@@ -1,11 +1,10 @@
 # My R packages
 
 ## Initial setup
-install.packages("devtools")
-devtools::install_github("jamesotto852/fRiend")
+  install.packages("devtools")
+  devtools::install_github("jamesotto852/fRiend")
 
 ## My projects
-
   install.packages("readxl")
   install.packages("ggplot2")
   install.packages("cowplot")
