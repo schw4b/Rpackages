@@ -2,9 +2,9 @@
 
 ## Initial setup
     install.packages("devtools")
-    devtools::install_github("jamesotto852/fRiend")
-
+   
 ## My projects
+    install.packages("rmarkdown")
     install.packages("readxl")
     install.packages("ggplot2")
     install.packages("cowplot")
@@ -18,4 +18,6 @@
     install.packages("testit")
     install.packages("survminer") # survival plots
     
+## From ghithub
+    devtools::install_github("jamesotto852/fRiend")
     
