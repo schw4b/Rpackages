@@ -17,6 +17,7 @@
     install.packages("testit")
     install.packages("survminer") # survival plots
     
-## From ghithub
+## From GitHub
     devtools::install_github("jamesotto852/fRiend")
     devtools::install_github("schw4b/transplantr")
+    devtools::install_github("swisstransplant/transplantr")
