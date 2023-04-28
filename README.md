@@ -12,7 +12,6 @@
     install.packages("Hmisc")
     install.packages("rms")
     install.packages("lubridate")
-    devtools::install_github("schw4b/transplantr")
     install.packages("officer")
     install.packages("data.table")
     install.packages("testit")
@@ -20,4 +19,4 @@
     
 ## From ghithub
     devtools::install_github("jamesotto852/fRiend")
-    
+    devtools::install_github("schw4b/transplantr")
