@@ -16,6 +16,7 @@
     install.packages("data.table")
     install.packages("testit")
     install.packages("survminer") # survival plots
+    install.packages("magick") # ggdraw()
     
 ## From GitHub
     devtools::install_github("jamesotto852/fRiend")
