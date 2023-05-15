@@ -21,4 +21,4 @@
 ## From GitHub
     devtools::install_github("jamesotto852/fRiend")
     devtools::install_github("schw4b/transplantr")
-    devtools::install_github("swisstransplant/transplantr")
+    devtools::install_github("swisstransplant/swt")
