@@ -17,6 +17,7 @@
     install.packages("testit")
     install.packages("survminer") # survival plots
     install.packages("magick") # ggdraw()
+    install.packages("hexSticker")
     
 ## From GitHub
     devtools::install_github("jamesotto852/fRiend")
