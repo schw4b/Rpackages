@@ -20,6 +20,6 @@
     install.packages("hexSticker")
     
 ## From GitHub
-    devtools::install_github("jamesotto852/fRiend")
-    devtools::install_github("schw4b/transplantr")
-    devtools::install_github("swisstransplant/swt")
+    remotes::install_github("jamesotto852/fRiend")
+    remotes::install_github("schw4b/transplantr")
+    remotes::install_github("swisstransplant/swt")
