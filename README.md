@@ -2,10 +2,12 @@
 
 ## Initial setup
     install.packages("devtools")
-   
-## My projects
     install.packages("rmarkdown")
+    install.packages("testit")
+    install.packages("data.table")
+## My projects
     install.packages("readxl")
+    install.packages("writexl")
     install.packages("ggplot2")
     install.packages("cowplot")
     install.packages("broom")
@@ -13,8 +15,6 @@
     install.packages("rms")
     install.packages("lubridate")
     install.packages("officer")
-    install.packages("data.table")
-    install.packages("testit")
     install.packages("survminer") # survival plots
     install.packages("magick") # ggdraw()
     install.packages("hexSticker")
