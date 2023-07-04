@@ -9,6 +9,7 @@
     install.packages("readxl")
     install.packages("writexl")
     install.packages("ggplot2")
+    install.packages("reshape2")
     install.packages("cowplot")
     install.packages("broom")
     install.packages("Hmisc")
