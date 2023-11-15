@@ -16,7 +16,7 @@
     install.packages("rms")
     install.packages("lubridate")
     install.packages("officer")
-    install.packages("survminer") # survival plots
+    install.packages("ggsurvfit") # survival plots
     install.packages("magick") # ggdraw()
     install.packages("hexSticker")
     
