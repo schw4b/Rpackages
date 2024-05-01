@@ -19,6 +19,7 @@
     install.packages("ggsurvfit") # survival plots
     install.packages("magick") # ggdraw()
     install.packages("hexSticker")
+    install.packages("MatchIt")
     
 ## From GitHub
     remotes::install_github("jamesotto852/fRiend")
