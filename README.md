@@ -18,7 +18,7 @@
     install.packages("lubridate")
     install.packages("hms")
 
-## Ploting
+## Plotting
     install.packages("ggplot2")
     install.packages("gridExtra")
     install.packages("magick") # ggdraw()
