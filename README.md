@@ -3,25 +3,33 @@
 ## Minimal setup
     install.packages("remotes")
     remotes::install_github("jamesotto852/fRiend")
-    install.packages("rmarkdown")
+    install.packages("fs")
     install.packages("testit")
+    install.packages("rmarkdown")
+
 ## Development
     install.packages("devtools")
-## My projects
-    install.packages("data.table")
+
+## Data processing
     install.packages("readxl")
     install.packages("writexl")
-    install.packages("ggplot2")
+    install.packages("data.table")
     install.packages("reshape2")
-    install.packages("cowplot")
+    install.packages("lubridate")
+    install.packages("hms")
+
+## Ploting
+    install.packages("ggplot2")
+    install.packages("gridExtra")
+    install.packages("magick") # ggdraw()
+
+## Analysis
+    install.packages("survival")
+    install.packages("cmprsk")
     install.packages("broom")
     install.packages("Hmisc")
     install.packages("rms")
-    install.packages("lubridate")
-    install.packages("officer")
     install.packages("ggsurvfit") # survival plots
-    install.packages("magick") # ggdraw()
-    install.packages("hexSticker")
     install.packages("MatchIt")
     
 ## From GitHub
