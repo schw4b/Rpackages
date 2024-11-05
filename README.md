@@ -31,6 +31,7 @@
     install.packages("rms")
     install.packages("ggsurvfit") # survival plots
     install.packages("MatchIt")
+    install.packages("consort")
     
 ## From GitHub
     remotes::install_github("schw4b/transplantr")
