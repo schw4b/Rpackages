@@ -1,11 +1,14 @@
 # My R packages
 
-## Initial setup
-    install.packages("devtools")
+## Minimal setup
+    install.packages("remotes")
+    remotes::install_github("jamesotto852/fRiend")
     install.packages("rmarkdown")
     install.packages("testit")
-    install.packages("data.table")
+## Development
+    install.packages("devtools")
 ## My projects
+    install.packages("data.table")
     install.packages("readxl")
     install.packages("writexl")
     install.packages("ggplot2")
@@ -22,6 +25,5 @@
     install.packages("MatchIt")
     
 ## From GitHub
-    remotes::install_github("jamesotto852/fRiend")
     remotes::install_github("schw4b/transplantr")
     remotes::install_github("swisstransplant/swt")
