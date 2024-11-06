@@ -32,6 +32,8 @@
     install.packages("ggsurvfit") # survival plots
     install.packages("MatchIt")
     install.packages("consort")
+    install.packages("pROC")
+    install.packages("predtools")
     
 ## From GitHub
     remotes::install_github("schw4b/transplantr")
