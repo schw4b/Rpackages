@@ -22,6 +22,8 @@
     install.packages("ggplot2")
     install.packages("gridExtra")
     install.packages("magick") # ggdraw()
+    install.packages("ggflowchart")
+    install.packages("pammtools") # geom_stepribbon() for custom cuminc plots
 
 ## Analysis
     install.packages("survival")
