@@ -24,6 +24,7 @@
     install.packages("magick") # ggdraw()
     install.packages("ggflowchart")
     install.packages("pammtools") # geom_stepribbon() for custom cuminc plots
+    install.packages("cowplot")
 
 ## Analysis
     install.packages("survival")
