@@ -37,7 +37,11 @@
     install.packages("consort")
     install.packages("pROC")
     install.packages("predtools")
-    
+
+## Meta-Analysis
+    install.packages("metafor")
+    install.packages("meta")
+
 ## From GitHub
     remotes::install_github("schw4b/transplantr")
     remotes::install_github("swisstransplant/swt")
