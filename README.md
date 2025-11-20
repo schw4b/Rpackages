@@ -10,7 +10,6 @@
 ## .Rprofile
 
 ```
-# Sys.setlocale("LC_TIME", "English")
 if (interactive()) {
   fRiend::greeting_octopus()
 }
