@@ -7,6 +7,16 @@
     install.packages("testit")
     install.packages("rmarkdown")
 
+## .Rprofile
+
+```
+# Sys.setlocale("LC_TIME", "English")
+if (interactive()) {
+  fRiend::greeting_octopus()
+}
+options(rstudio.help.showDataPreview = FALSE)
+```
+
 ## Development
     install.packages("devtools")
 
