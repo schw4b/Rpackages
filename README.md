@@ -46,6 +46,7 @@ options(rstudio.help.showDataPreview = FALSE)
     install.packages("consort")
     install.packages("pROC")
     install.packages("predtools")
+    install.packages("dcurves")
 
 ## Meta-Analysis
     install.packages("metafor")
