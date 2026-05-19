@@ -34,6 +34,7 @@ options(rstudio.help.showDataPreview = FALSE)
     install.packages("ggflowchart")
     install.packages("pammtools") # geom_stepribbon() for custom cuminc plots
     install.packages("cowplot")
+    install.packages("plotly")
 
 ## Analysis
     install.packages("survival")
