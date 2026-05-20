@@ -35,6 +35,7 @@ options(rstudio.help.showDataPreview = FALSE)
     install.packages("pammtools") # geom_stepribbon() for custom cuminc plots
     install.packages("cowplot")
     install.packages("plotly")
+    install.packages("png")
 
 ## Analysis
     install.packages("survival")
@@ -49,6 +50,7 @@ options(rstudio.help.showDataPreview = FALSE)
     install.packages("predtools")
     install.packages("dcurves")
     install.packages("pseudo")
+    install.packages("robustbase") # robust covariance and center
 
 ## Meta-Analysis
     install.packages("metafor")
