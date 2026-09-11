@@ -1,3 +1,6 @@
+# Ubuntu dependencies
+    sudo apt-get install libuv1-dev # for fs
+
 # My R packages
 
 ## Minimal setup
